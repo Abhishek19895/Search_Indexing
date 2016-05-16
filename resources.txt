@@ -1,0 +1,8 @@
+We have used the below links to help complete this project:
+
+1. http://www1.cs.columbia.edu/nlp/theses/dave_evans.pdf
+2. http://nlp.stanford.edu/IR­book/pdf/20crawl.pdf
+3. http://www.micsymposium.org/mics_2005/papers/paper89.pdf
+4. http://docs.python­guide.org/en/latest/scenarios/scrape/
+5. http://www­rohan.sdsu.edu/~gawron/python_for_ss/course_core/book_draft/web/web_intro.html 
+6. http://dlab.berkeley.edu/blog/scraping­new­york­times­articles­python­tutorial
