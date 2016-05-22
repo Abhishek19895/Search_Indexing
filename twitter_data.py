@@ -1,8 +1,6 @@
 
-
-"""
 #Author: Abhishek Singh
-
+"""
 I have used this url to extract this data
 "https://github.com/computermacgyver/twitter-python"
 """
